@@ -37,7 +37,7 @@ int main(){
                sleep(18);
                 cout<<"Filho #1 morreu aos :"<<born-bornSonOne<<" anos"<<endl;
 
-               exit(0) ;
+               exit(0);
         }else{
             //neto filho#1
          bornSonOne =  born = time(0);
@@ -71,6 +71,7 @@ int main(){
         pid[3]=fork();
         
 
+    }
     }
     return 0;
     }
