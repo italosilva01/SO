@@ -13,6 +13,8 @@ sys/wait.h
 -
 sys/types.h
 -
+time.h
+-
 unistd.h
 -
 
