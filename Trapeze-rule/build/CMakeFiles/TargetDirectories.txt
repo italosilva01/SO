@@ -1,0 +1,3 @@
+/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Trapeze-rule/build/CMakeFiles/rebuild_cache.dir
+/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Trapeze-rule/build/CMakeFiles/edit_cache.dir
+/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Trapeze-rule/build/CMakeFiles/main.dir
