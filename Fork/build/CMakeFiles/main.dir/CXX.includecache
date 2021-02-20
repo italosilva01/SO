@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/source/src/main.cpp
+iostream
+-
+sys/wait.h
+-
+sys/types.h
+-
+time.h
+-
+unistd.h
+-
+

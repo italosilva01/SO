@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9   -I\"/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/source/src\" -I\"/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/source/lib\"  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c \"/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/source/src/main.cpp\"",
+  "file": "/home/italo/Área de Trabalho/faculdade/SO/trabalhos/SO/Fork/source/src/main.cpp"
+}
+]
